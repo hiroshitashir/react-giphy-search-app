@@ -1,0 +1,10 @@
+.Grid-card {
+  width:100%;
+  height:0;
+  padding-bottom:56%;
+  position:relative;
+}
+
+.Grid-gif {
+  position:absolute;
+}
